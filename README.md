@@ -6,7 +6,7 @@
 # 📕 Sobre
 Este é o meu primeiro repositório do curso de Java da Alura, é um jogo de adivinhação simples. Neste jogo, o programa gera um número aleatório entre 1 e 100, e o jogador deve tentar adivinhar qual é esse número.
 
-# 🕹️ Funcionamento do jogo
+# 🕹️ Funcionamento do Jogo
 1. O programa gera um número aleatório entre 1 e 100.
 3. O jogador tem 5 tentativas para adivinhar o número gerado e insere um palpite através do teclado.
 3. O programa verifica se o palpite está correto.
