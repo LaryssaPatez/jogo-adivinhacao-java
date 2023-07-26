@@ -8,7 +8,7 @@ Este é o meu primeiro repositório do curso de Java da Alura, é um jogo de adi
 
 # 🕹️ Funcionamento do Jogo
 1. O programa gera um número aleatório entre 1 e 100.
-3. O jogador tem 5 tentativas para adivinhar o número gerado e insere um palpite através do teclado.
+3. O jogador tem 5 tentativas para adivinhar o número gerado.
 3. O programa verifica se o palpite está correto.
 4. Se o palpite estiver correto, o jogador vence o jogo.
 5. Se o palpite estiver incorreto, o programa dá dicas se o palpite é maior ou menor que o número gerado.
